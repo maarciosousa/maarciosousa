@@ -1,6 +1,6 @@
 # Antonio Sousa 👨‍💻
 
-Olá! 👋 Eu sou Antonio Sousa, um profissional de tecnologia da informação com sede em Porto Velho - RO. Tenho 27 anos, sou graduado em Administração, com duas pós-graduações, uma em MBA - Gestão de Tecnologia da Informação e outra em Análise, Projeto e Gerência de Sistemas.
+Olá! 👋 Eu sou Antonio Sousa, um profissional de tecnologia da informação com sede em Porto Velho - RO. Tenho 26 anos, sou graduado em Administração, com duas pós-graduações, uma em MBA - Gestão de Tecnologia da Informação e outra em Análise, Projeto e Gerência de Sistemas.
 
 ## Sobre Mim 🚀
 
