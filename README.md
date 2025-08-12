@@ -16,7 +16,7 @@ Estou focado em me tornar um desenvolvedor de carreira, com especialização em 
 
 ## Redes Sociais 🌐
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-antonio--sousa--oficial-blue)](https://www.linkedin.com/in/antoniosousa-work/) 📎
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-antoniosousa--work-blue)](https://www.linkedin.com/in/antoniosousa-work/) 📎
 - [![Instagram](https://img.shields.io/badge/Instagram-maarcio__sousa-red)](https://www.instagram.com/maarcio_sousa/) 📸
 
 ## Contato 📬
